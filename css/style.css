@@ -235,7 +235,8 @@ h6,
         padding: 6rem 0 9rem 0;
     }
     .navbar{
-        background-color: var(--primary);
+        /* background-color: var(--primary); */
+        background-color: darkcyan;
     }
 }
 
