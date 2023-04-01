@@ -236,7 +236,8 @@ h6,
     }
     .navbar{
         /* background-color: var(--primary); */
-        background-color: darkcyan;
+        /* background-color: darkcyan; */
+        background-color: #8f60e0;
     }
 }
 
