@@ -173,7 +173,9 @@ h6,
     .sticky-top.navbar-light {
         position: fixed;
         /* background: #FFFFFF; */
-        background-color: darkcyan;
+        /* background-color: darkcyan; */
+        background-color: #8f60e0;
+
     }
 
     .sticky-top.navbar-light .navbar-brand h1 {
