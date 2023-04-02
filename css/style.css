@@ -233,13 +233,7 @@ h6,
     background-repeat: no-repeat;
 }
 
-.abt-font{
-    font-size: 1.5rem;
-}
 
-.sup-font{
-    font-size: 1.8rem;
-}
 
 @media (max-width: 991.98px) {
     .hero-header {
@@ -622,5 +616,21 @@ h6,
 @media (min-width: 1200px){
     .container-xxl {
         max-width: unset;
+    }
+}
+.abt-font{
+    font-size: 1.5rem;
+}
+
+.sup-font{
+    font-size: 1.8rem;
+}
+
+@media (max-width: 991.98px) {
+    .abt-font{
+        font-size: 1.2rem;
+    }
+    .sup-font{
+        font-size: 1.5rem;
     }
 }
