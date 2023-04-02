@@ -233,6 +233,14 @@ h6,
     background-repeat: no-repeat;
 }
 
+.abt-font{
+    font-size: 1.5rem;
+}
+
+.sup-font{
+    font-size: 1.8rem;
+}
+
 @media (max-width: 991.98px) {
     .hero-header {
         padding: 6rem 0 9rem 0;
@@ -242,6 +250,12 @@ h6,
         /* background-color: darkcyan; */
         /* background-color: #8f60e0; */
         background-color: #006699;
+    }
+    .abt-font{
+        font-size: 1.2rem;
+    }
+    .sup-font{
+        font-size: 1.5rem;
     }
 }
 
